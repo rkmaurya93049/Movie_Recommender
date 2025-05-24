@@ -1,2 +1,2 @@
 # Movie_Recommender
-In this Repo.. i build the movie recommendation system.
+In this Repo.. i build the movie recommendation system.For building the movie recommendation system i used the TMDB dataset because it is easily avilable on the internet and i had to do data preprocessing and vectorization on the data to fetch movie name and training the algorithm this algorithm is  working the distance based prediction and also i build the UI using streamlit which can fetch movie and predict the similar movie as given.
